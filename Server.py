@@ -32,7 +32,7 @@ def handle_client(client):
             nicknames.remove(nickname)
             break
 
-
+#receive function
 def receive():
 
     while True:
