@@ -1,5 +1,5 @@
 # Socket-Client-Server
-A Chatting application which allows multiple clients to connect and chat.
+A Chatting application which allows multiple clients to connect and chat with multiple users.
 
 Key Feaures:
 1. Clients can set their usernames.
