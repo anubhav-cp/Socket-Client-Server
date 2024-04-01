@@ -9,6 +9,7 @@ nickname = input("Enter Username: ")
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect((SERVER, PORT))
 
+#write function
 def write():
     run = True
     while run:
